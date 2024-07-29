@@ -1,0 +1,11 @@
+.icons_container {
+    display: flex;
+    list-style: none;
+    gap: 5rem;
+    margin: 0px 40px;
+    padding: 2rem 0px;
+}    
+
+.about_icons{
+    text-align: center;
+}

@@ -1,0 +1,28 @@
+#abt_others_img{
+    width: 8rem;
+}
+
+#see_abt_others {
+    margin: 0;
+    color: #000000bd;
+    font-family: emoji;
+    font-size: 2rem;
+    padding: 10px 0px;
+}
+
+.abt_others_card {
+    width: 20rem;
+    padding: 1rem;
+    background-color: white;
+    border-radius: 1rem;
+    border: 1px solid #808080a6;
+}
+.abt_others_cards_container{
+    display: flex;
+    gap: 1rem;
+}
+
+#abt_others_img1{
+    width: 4rem;
+    border-radius: 4rem;
+}

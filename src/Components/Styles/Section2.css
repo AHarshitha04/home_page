@@ -1,0 +1,96 @@
+#section2_h2Tag {
+    padding: 8px;
+    font-size: 2rem;
+    font-family: emoji;
+    color: #000000bf;
+    margin: 5px 20px;
+}
+#section2_pTag{
+    margin: 0px 25px;
+    font-size: 20px;
+}
+
+.active_class_links{
+    display: flex;
+    gap: 3rem;
+    font-size: 18px;
+    margin: 0px 25px;
+    font-weight: bold;
+    color: #0000009e;
+    border-bottom: 1px solid #00000066;
+}
+.Section2_parent_div2{
+    margin-top: 2rem;
+    padding: 2rem;
+}
+
+.course_buttons{
+    gap: 1rem;
+display: flex;
+margin: 8px 50px;
+}
+
+
+
+#specific_courseButton_activeDiv{
+    background-color: black;
+    color: white;
+    border-radius: 35px;
+    padding: 5px;
+    width: 13rem;
+    height: 4rem;
+    text-align: center;
+    line-height: 10px;
+}
+
+#specific_courseButton_div{
+    background-color: #e4e8eb;
+    color: black;
+    border-radius: 35px;
+    padding: 5px;
+    width: 13rem;
+    height: 4rem;
+    text-align: center;
+    line-height: 10px;
+}
+
+.Cards_container {
+    margin: 2rem 0px;
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+}
+
+#Specific_card {
+    width: 20rem;
+    border: 1px solid #0000004a;
+    background-color: white;
+}
+
+#Specific_card_img{
+    width: 20rem;
+}
+.Specific_card_ul{
+    list-style: none;
+    line-height: 25px;
+}
+#specific_card_h4Tag{
+    margin: 0;
+    color: #000000b8;
+}
+.rating-stars{
+    color: #b36705;
+}
+
+.courses_button {
+    margin: 0px 25px;
+}
+#ViewCourses_btn {
+    width: 19rem;
+    height: 3rem;
+    border: 1px solid #000000;
+    background-color: #f7f9fa;
+    font-weight: 700;
+    font-size: 1rem;
+    color: #000000ad;
+}

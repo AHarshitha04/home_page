@@ -1,0 +1,65 @@
+.footer_div1 {
+    display: flex;
+    gap: 20rem;
+    border-bottom: 1px solid gray;
+
+}
+
+#footer_heading {
+    margin: 0;
+    color: white;
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+
+#Udemy_Business_span {
+    color: #c0c4fc;
+}
+
+.logo_pics_container{
+    display: flex;
+    padding-bottom: 1rem;
+    gap: 1rem;
+}
+
+.footer_div2{
+    display: flex;
+gap: 5rem;
+justify-content: flex-start;
+}
+
+#footer_ul{
+    list-style: none;
+    color: white;
+    line-height: 2rem;
+}
+
+.english_icon_btn {
+    position: relative;
+    right: -52rem;
+    top: 2rem;
+}
+
+#english_btn {
+    width: 10rem;
+    height: 3rem;
+    background-color: #2d2f31;
+    border: 1px solid white;
+    color: white;
+    font-size: 17px;
+}
+
+#eng_icon {
+    padding-right: 7px;
+}
+
+#udemy_logo {
+    width: 7rem;
+    height: 5rem;
+  }
+
+  .footer_bottom{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+  }

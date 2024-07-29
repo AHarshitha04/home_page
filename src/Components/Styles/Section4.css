@@ -1,0 +1,40 @@
+#goals_steps_heading {
+    margin: 0;
+    font-family: emoji;
+    font-size: 2rem;
+    color: #000000cf;
+}
+
+.goal_step_active {
+    display: flex;
+    padding: 1rem;
+    width: 40rem;
+    gap: 1rem;
+    border: 1px solid #a435f0;
+    border-radius: 1rem;
+    border-left: 8px solid #a435f0;
+}
+.goal_step{
+    display: flex;
+    padding: 1rem;
+    width: 40rem;
+    gap: 1rem;
+    border: 1px solid gray;
+    border-radius: 1rem;
+}
+#goal_step_img {
+    width: 5rem;
+}
+.goal_cards {
+    margin-top: 2rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+#learning_score_img {
+    width: 35rem;
+    padding: 3rem 1rem;
+}
+.Learning_goal_setting_section{
+    display: flex;
+}

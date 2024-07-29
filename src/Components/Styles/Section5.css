@@ -1,0 +1,73 @@
+#tickmark{
+    color: green;
+    border: 1px solid green;
+    border-radius: 1rem;
+    padding: 2px;
+    font-weight: 600;
+}
+
+#Accelerate_h2_tag {
+    font-size: 2rem;
+    color: #000000c9;
+    font-family: emoji;
+    margin: 0;
+}
+
+#Accelerate_p_tag {
+    font-size: 20px;
+    color: #0000008c;
+    padding: 10px 0px;
+    margin: 0;
+}
+
+.Accelerate_card {
+    background-color: white;
+    width: 25rem;
+    height: 30rem;
+    border: 1px solid #8080808f;
+    border-radius: 1rem;
+}
+
+.Accelerate_header_tag {
+    background-color: #f7f9fa;
+    margin-top: 0px;
+    padding: 8px 35px;
+    text-align: left;
+    border-top: 5px solid #a435f0;
+    border-radius: 1rem;
+}
+
+.Accelerate_ul {
+    list-style: none;
+}
+
+#subscrib_btn {
+    width: 20rem;
+    background-color: #2d2f31;
+    color: white;
+    padding: 10px;
+    font-size: 1rem;
+    font-weight: 700;
+    border: none;
+}
+#tick_mark_li {
+    padding: 20px 6px;
+    li{
+        line-height: 3px;
+    }
+}
+
+#ul_heading {
+    margin: 0;
+    font-size: 17px;
+    color: #000000ab;
+}
+
+.Accelerate_cards_container{
+    margin-top: 2rem;
+    display: flex;
+    gap: 1rem;
+}
+#right{
+    padding-left: 8px;
+}

@@ -1,10 +1,11 @@
-import logo from './logo.svg';
-import './App.css';
+// In App.js
+import React from 'react';
+import HomePage from './HomePage'; // Correct for named export
 
 function App() {
   return (
-    <div className="App">
-      
+    <div>
+      <HomePage />
     </div>
   );
 }

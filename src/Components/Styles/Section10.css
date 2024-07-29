@@ -1,0 +1,43 @@
+.slick-prev, .slick-next {
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 50%;
+    color: white;
+    z-index: 1;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .slick-prev:hover, .slick-next:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+  }
+  
+  .slick-prev::before, .slick-next::before {
+    font-size: 20px;
+    color: white;
+  }
+  
+  .story_slider_abt_others{
+    /* width: 0; */
+    display: flex;
+    /* flex-wrap: wrap; */
+  }
+  #content_div{
+    width: 30rem;
+  }
+
+  #read_btn{
+    width: 7rem;
+    background-color: black;
+    color: white;
+    padding: 1rem;
+  }
+
+  #img_div {
+    width: 115rem;
+    position: relative;
+    /* height: 11rem; */
+    right: -16rem;
+}

@@ -1,0 +1,41 @@
+
+.Cards_container {
+    margin: 2rem 0px;
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+}
+
+#Specific_card {
+    width: 20rem;
+    border: 1px solid #0000004a;
+    background-color: white;
+}
+
+#Specific_card_img{
+    width: 20rem;
+}
+.Specific_card_ul{
+    list-style: none;
+    line-height: 25px;
+}
+#specific_card_h4Tag{
+    margin: 0;
+    color: #000000b8;
+}
+.rating-stars{
+    color: #b36705;
+}
+
+.courses_button {
+    margin: 0px 25px;
+}
+#ViewCourses_btn {
+    width: 19rem;
+    height: 3rem;
+    border: 1px solid #000000;
+    background-color: #f7f9fa;
+    font-weight: 700;
+    font-size: 1rem;
+    color: #000000ad;
+}

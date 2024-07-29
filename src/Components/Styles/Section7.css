@@ -1,0 +1,23 @@
+
+
+.section7{
+    display: flex;
+}
+
+#Angled_Trends_report_image {
+    width: 50rem;
+}
+#get_report_btn{
+    width: 10rem;
+    padding: 1rem;
+    background-color: white;
+    color: black;
+    font-size: 1rem;
+    font-weight: 600;
+    border: 1px solid black;
+}
+
+.section7_child_div{
+    text-align: left;
+padding-top: 10rem;
+}
